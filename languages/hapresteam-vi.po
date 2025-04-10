@@ -1,0 +1,228 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: H&A Pre STEAM Kindergarten\n"
+"POT-Creation-Date: 2023-05-01 10:00+0700\n"
+"PO-Revision-Date: 2023-05-01 10:00+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e;esc_attr__;esc_attr_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: functions.php:20
+msgid "Primary Menu"
+msgstr "Menu Chính"
+
+#: functions.php:21
+msgid "Footer Menu"
+msgstr "Menu Chân Trang"
+
+#: header.php:42
+msgid "Photo Gallery"
+msgstr "Thư Viện Ảnh"
+
+#: header.php:45
+msgid "Video Gallery"
+msgstr "Thư Viện Video"
+
+#: template-parts/sections/hero.php:12
+msgid "H&A PRE STEAM KINDERGARTEN SYSTEM"
+msgstr "HỆ THỐNG MẦM NON H&A PRE STEAM"
+
+#: template-parts/sections/hero.php:15
+msgid "STEAM-oriented Kindergarten System - Strengths in Pre-Elementary and Early Education"
+msgstr "Hệ Thống Trường Mầm Non Định Hướng Theo Steam - Thế Mạnh Về Tiền Tiểu Học Và Giáo Dục Sớm"
+
+#: template-parts/sections/hero.php:19
+msgid "Explore Programs"
+msgstr "Khám Phá Chương Trình"
+
+#: template-parts/sections/hero.php:22
+msgid "Contact Us"
+msgstr "Liên Hệ Tư Vấn"
+
+#: template-parts/sections/features.php:9
+msgid "EDUCATION QUALITY"
+msgstr "CHẤT LƯỢNG GIÁO DỤC"
+
+#: template-parts/sections/features.php:21
+msgid "TEACHER QUALITY"
+msgstr "CHẤT LƯỢNG GIÁO VIÊN"
+
+#: template-parts/sections/features.php:22
+msgid "Our center has a team of quality teachers with diverse experience and professional qualifications. Teachers are regularly trained in modern teaching methods."
+msgstr "Trung tâm có đội ngũ giáo viên chất lượng, đa dạng về kinh nghiệm và trình độ chuyên môn. Các giáo viên thường xuyên được đào tạo phương pháp giảng dạy hiện đại."
+
+#: template-parts/sections/features.php:34
+msgid "DIVERSE LEARNING PROGRAMS"
+msgstr "CHƯƠNG TRÌNH HỌC ĐA DẠNG"
+
+#: template-parts/sections/features.php:35
+msgid "The center offers a variety of courses, from basic courses for beginners to advanced courses. In addition, there are specialized courses on skills development."
+msgstr "Trung tâm cung cấp các khóa học phong phú, từ các khóa cơ bản cho người mới bắt đầu đến các khóa nâng cao. Bên cạnh đó, còn có các khóa học chuyên sâu về kỹ năng."
+
+#: template-parts/sections/features.php:47
+msgid "ADVANCED TEACHING METHODS"
+msgstr "PHƯƠNG PHÁP GIẢNG DẠY TIÊN TIẾN"
+
+#: template-parts/sections/features.php:48
+msgid "The center uses modern teaching methods, focusing on developing practical communication skills, encouraging students to participate in practical activities."
+msgstr "Trung tâm sử dụng các phương pháp giảng dạy hiện đại, tập trung vào việc phát triển kỹ năng giao tiếp thực tế, khuyến khích học viên tham gia vào các hoạt động thực hành."
+
+#: template-parts/sections/programs.php:9
+msgid "OUR PROGRAMS"
+msgstr "CÁC KHÓA HỌC"
+
+#: template-parts/sections/programs.php:10
+msgid "Diverse educational programs for all kindergarten ages"
+msgstr "Chương trình giáo dục đa dạng dành cho mọi độ tuổi mầm non"
+
+#: template-parts/sections/programs.php:37
+msgid "View details"
+msgstr "Xem chi tiết"
+
+#: template-parts/sections/programs.php:47
+msgid "No programs found."
+msgstr "Không tìm thấy chương trình nào."
+
+#: template-parts/sections/programs.php:56
+msgid "View All Programs"
+msgstr "Xem Tất Cả Chương Trình"
+
+#: template-parts/sections/teachers.php:9
+msgid "OUR TEACHERS"
+msgstr "ĐỘI NGŨ GIÁO VIÊN"
+
+#: template-parts/sections/teachers.php:10
+msgid "A team of over 50 teachers with more than 5 years of experience"
+msgstr "Đội ngũ giáo viên trên 50 giáo viên có và có tuổi đời trên 5 năm kinh nghiệm"
+
+#: template-parts/sections/testimonials.php:9
+msgid "TESTIMONIALS"
+msgstr "CẢM NHẬN HỌC VIÊN"
+
+#: template-parts/sections/faq.php:9
+msgid "FREQUENTLY ASKED QUESTIONS"
+msgstr "CÂU HỎI THƯỜNG GẶP"
+
+#: template-parts/sections/faq.php:15
+msgid "What courses does the center offer?"
+msgstr "Trung tâm có những khóa học nào?"
+
+#: template-parts/sections/faq.php:21
+msgid "The center offers many courses including basic kindergarten programs, STEAM programs, and English courses with native teachers for children aged 2-6 years."
+msgstr "Trung tâm cung cấp nhiều khóa học bao gồm chương trình mầm non cơ bản, chương trình STEAM, và các khóa học tiếng Anh với giáo viên bản ngữ dành cho trẻ từ 2-6 tuổi."
+
+#: template-parts/sections/faq.php:27
+msgid "How to register for a course?"
+msgstr "Làm thế nào để đăng ký khóa học?"
+
+#: template-parts/sections/faq.php:33
+msgid "Parents can register directly at the school, by phone or fill out the online registration form on the website. After registration, a consultant will contact you to guide the next steps."
+msgstr "Phụ huynh có thể đăng ký trực tiếp tại trường, qua điện thoại hoặc điền form đăng ký trực tuyến trên website. Sau khi đăng ký, nhân viên tư vấn sẽ liên hệ để hướng dẫn các bước tiếp theo."
+
+#: template-parts/sections/faq.php:39
+msgid "How flexible is the schedule?"
+msgstr "Lịch học linh hoạt như thế nào?"
+
+#: template-parts/sections/faq.php:45
+msgid "The school has many different class sessions from Monday to Friday, from 7:30 to 17:30. Parents can choose morning, afternoon or all-day classes according to their needs."
+msgstr "Trường có nhiều ca học khác nhau từ thứ Hai đến thứ Sáu, từ 7:30 đến 17:30. Phụ huynh có thể chọn ca học buổi sáng, buổi chiều hoặc cả ngày tùy theo nhu cầu."
+
+#: template-parts/sections/faq.php:51
+msgid "How much is the tuition fee for each course?"
+msgstr "Học phí cho mỗi khóa học là bao nhiêu?"
+
+#: template-parts/sections/faq.php:57
+msgid "Tuition will depend on the program and duration. Please contact the center directly for detailed advice on tuition fees and current promotions."
+msgstr "Học phí sẽ tùy thuộc vào chương trình học và thời lượng. Vui lòng liên hệ trực tiếp với trung tâm để được tư vấn chi tiết về học phí và các chương trình ưu đãi hiện có."
+
+#: template-parts/sections/faq.php:63
+msgid "What qualifications and experience do teachers at the center have?"
+msgstr "Giáo viên tại trung tâm có bằng cấp và kinh nghiệm như thế nào?"
+
+#: template-parts/sections/faq.php:69
+msgid "All teachers at the center have professional qualifications in early childhood education and have at least 3-5 years of teaching experience. English teachers are native speakers with international English teaching certificates."
+msgstr "Tất cả giáo viên tại trung tâm đều có bằng cấp chuyên môn về giáo dục mầm non và có ít nhất 3-5 năm kinh nghiệm giảng dạy. Giáo viên tiếng Anh đều là người bản ngữ có chứng chỉ giảng dạy tiếng Anh quốc tế."
+
+#: template-parts/sections/contact.php:12
+msgid "REGISTER FOR INFORMATION"
+msgstr "ĐĂNG KÝ NHẬN TIN"
+
+#: template-parts/sections/contact.php:13
+msgid "To receive information about special events and free materials. Please leave us your contact information."
+msgstr "Để nhận thông tin về các sự kiện đặc biệt và tài liệu miễn phí. Bạn hãy để lại cho chúng tôi thông tin liên lạc."
+
+#: template-parts/sections/contact.php:20
+msgid "Your name..."
+msgstr "Họ tên của bạn..."
+
+#: template-parts/sections/contact.php:24
+msgid "Phone number"
+msgstr "Số điện thoại"
+
+#: template-parts/sections/contact.php:28
+msgid "Your email"
+msgstr "Email của bạn"
+
+#: template-parts/sections/contact.php:32
+msgid "REGISTER FOR TRIAL CLASS"
+msgstr "ĐĂNG KÝ HỌC THỬ"
+
+#: footer.php:53
+msgid "Quick Links"
+msgstr "Liên Kết Nhanh"
+
+#: footer.php:79
+msgid "Working Hours"
+msgstr "Giờ Làm Việc"
+
+#: footer.php:89
+msgid "Contact"
+msgstr "Liên Hệ"
+
+#: footer.php:104
+msgid "Copyright © 2023 H&A Kindergarten (Ha Pre Steam)"
+msgstr "Copyright © 2023 H&A Kindergarten (Ha Pre Steam)"
+
+#: page-contact.php:12
+msgid "CONTACT US"
+msgstr "LIÊN HỆ"
+
+#: page-contact.php:13
+msgid "Get in touch with H&A PRE STEAM"
+msgstr "Liên hệ với H&A PRE STEAM"
+
+#: page-contact.php:20
+msgid "Send Us a Message"
+msgstr "Gửi Tin Nhắn Cho Chúng Tôi"
+
+#: page-contact.php:36
+msgid "Your message"
+msgstr "Tin nhắn của bạn"
+
+#: page-contact.php:40
+msgid "Send Message"
+msgstr "Gửi Tin Nhắn"
+
+#: page-contact.php:46
+msgid "Contact Information"
+msgstr "Thông Tin Liên Hệ"
+
+#: page-contact.php:55
+msgid "Headquarters"
+msgstr "Trụ sở chính"
+
+#: page-contact.php:67
+msgid "Hotline"
+msgstr "Hotline"
+
+#: page-contact.php:100
+msgid "Map"
+msgstr "Bản Đồ"
