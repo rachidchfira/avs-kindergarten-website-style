@@ -24,11 +24,11 @@ export default function Header() {
             </div>
           </div>
           <div className="flex space-x-4 items-center">
-            <Link href="/gallery" className="text-sm hover:underline">
-              Photo Gallery
-            </Link>
-            <Link href="/videos" className="text-sm hover:underline">
-              Video Gallery
+            <Link 
+              href="/gallery" 
+              className="text-sm hover:bg-white/10 px-3 py-1 rounded-full transition-colors"
+            >
+              {t("gallery.title")}
             </Link>
             <LanguageSwitcher />
           </div>

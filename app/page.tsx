@@ -2,6 +2,7 @@
 
 import HeroSection from "@/components/hero-section"
 import FeaturesSection from "@/components/features-section"
+import FacilitiesSection from "@/components/facilities-section"
 import ProgramsSection from "@/components/programs-section"
 import TeachersSection from "@/components/teachers-section"
 import TestimonialsSection from "@/components/testimonials-section"
@@ -17,6 +18,7 @@ export default function Home() {
     <>
       <HeroSection />
       <FeaturesSection />
+      <FacilitiesSection />
       <ProgramsSection />
       <TeachersSection />
       <TestimonialsSection />
